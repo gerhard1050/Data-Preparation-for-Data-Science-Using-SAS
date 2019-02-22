@@ -1,3 +1,5 @@
+<img src='DPFA_Cover_klein.jpg' align='right' height="200">
+
 # Data-Preparation-for-Data-Science-Using-SAS
 Best practices how to prepare data for Data Science and Analytics, Tips/Tricks and Code Examples on how to implement this with SAS Software. Companion and Download Site for the [SAS Press Book](https://www.sas.com/store/prodBK_60502_en.html?storeCode=SAS_US&storeCode=SAS_US)  "Data Preparation for Analytics Using SAS" by Gerhard Svolba  [--> amazon.com](https://www.amazon.com/Data-Preparation-Analytics-Using-Press-ebook/dp/B001UQ6X2C/ref=sr_1_1?keywords=data+preparation+for+analytics&qid=1550836793)
 
