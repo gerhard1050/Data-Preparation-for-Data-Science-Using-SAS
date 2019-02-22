@@ -1,11 +1,11 @@
 # Data-Preparation-for-Data-Science-Using-SAS
-Best practices how to prepare data for Data Science and Analytics, Tips/Tricks and Code Examples on how to implement this with SAS Software. Companion and Download Site for the SAS Press Book "Data Preparation for Analytics Using SAS" by Gerhard Svolba
+Best practices how to prepare data for Data Science and Analytics, Tips/Tricks and Code Examples on how to implement this with SAS Software. Companion and Download Site for the [SAS Press Book](https://www.sas.com/store/prodBK_60502_en.html?storeCode=SAS_US&storeCode=SAS_US)  "Data Preparation for Analytics Using SAS" by Gerhard Svolba  [--> amazon.com](https://www.amazon.com/Data-Preparation-Analytics-Using-Press-ebook/dp/B001UQ6X2C/ref=sr_1_1?keywords=data+preparation+for+analytics&qid=1550836793&s=gateway&sr=8-1)
 
-- [SAS-Press-Website](https://www.sas.com/store/prodBK_60502_en.html?storeCode=SAS_US&storeCode=SAS_US) 
-- [amazon.com-Website](https://www.amazon.com/Data-Preparation-Analytics-Using-Press-ebook/dp/B001UQ6X2C/ref=sr_1_1?keywords=data+preparation+for+analytics&qid=1550836793&s=gateway&sr=8-1)
-
-[Paper Efficient “One-Row-per-Subject” Data Mart Construction
+* [Paper Efficient “One-Row-per-Subject” Data Mart Construction
 for Data Mining  @SAS Global Forum](http://www2.sas.com/proceedings/sugi31/078-31.pdf)
+* [Other books](https://support.sas.com/en/books/authors/gerhard-svolba.html) from Gerhard Svolba at SAS Press.
+* [Data Quality for Data Science Using SAS](https://github.com/gerhard1050/Data-Quality-for-Data-Science-Using-SAS)
+* [Applying Data Science - Business Case Studies Using SAS](https://github.com/gerhard1050/Applying-Data-Science-Using-SAS)
 
 ## The Structure and Use of This Book
 This book has been written for Data Scientists, Statisticians, Analysts, SAS Users, and all people that are involved in the data preparation process for analytics. The goal of the book is to give practical advice in the form of SAS coding tips and tricks as well as conceptual background information on data structures and considerations from the business point of view.
